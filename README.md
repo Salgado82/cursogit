@@ -2,7 +2,7 @@
 
 Para iniciar git es necesario
 ```
-git ini
+git init
 git remote add .....
 ```
 
